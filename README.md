@@ -11,5 +11,5 @@
 ##  Finding the top 3 students
      Time Complexity  
         O(nlog(n)) where n is the number of students
-    Space Complexity is 
+    Space Complexity 
         O(n) where n is the number of students
