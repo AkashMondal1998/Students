@@ -6,10 +6,10 @@
         Here I consider the number of subjects to be constant.
         Therefore the time complexity is O(n)
      Space Complexity
-        O(n) where n is the number of students
+        O(n) 
 
 ##  Finding the top 3 students
      Time Complexity  
         O(nlog(n)) where n is the number of students
      Space Complexity 
-        O(n) where n is the number of students
+        O(n)
