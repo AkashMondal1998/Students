@@ -1,4 +1,4 @@
-# Submission
+# Students
 
 ##  Finding the topper in each subject
     **Time Complexity**
